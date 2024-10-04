@@ -1,0 +1,22 @@
+{
+  "name": "socket-chat-example",
+  "version": "1.0.0",
+  "description": " A simple socket chat example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolfosu/socket-chat.git"
+  },
+  "author": "bolfosu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bolfosu/socket-chat/issues"
+  },
+  "homepage": "https://github.com/bolfosu/socket-chat#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
